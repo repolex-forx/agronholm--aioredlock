@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "aioredlock",
+  "versions": [
+    {
+      "commit": "258fbf7790a4e2da2efdb4527a414862471eeee2",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:52:00.173546+00:00"
+    }
+  ]
+}
