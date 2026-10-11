@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/agronholm/aioredlock/commit/258fbf7790a4e2da2efdb4527a414862471eeee2",
       "git:hexsha": "258fbf7790a4e2da2efdb4527a414862471eeee2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T20:52:00.173071+00:00"
     }
   ]
 }
